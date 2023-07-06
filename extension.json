@@ -1,6 +1,6 @@
 {
 	"name": "TabberNeue",
-	"version": "1.7.5",
+	"version": "2.0.0-alpha",
 	"author": [
 		"alistair3149",
 		"Eric Fortin",
@@ -136,7 +136,7 @@
 	"config_prefix": "wg",
 	"config": {
 		"TabberNeueEnableLegacyMode": {
-			"value": true,
+			"value": false,
 			"description": "Use legacy mode to render Tabber. It is required for nested Tabber.",
 			"public": true
 		},
